@@ -23,6 +23,12 @@ Built as a **Data Science Capstone Project** to demonstrate real-world data anal
 
 ---
 
+## Images
+
+![Toss Impact](images/toss_decision.jpeg)
+
+---
+
 ## 🔍 Questions Answered (20 EDA Questions)
 
 ### 🎲 Toss Analysis
