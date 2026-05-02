@@ -28,8 +28,8 @@ Built as a **Data Science Capstone Project** to demonstrate real-world data anal
 ![Toss Impact](images/toss_decision.jpeg)
 ![POTM](images/potm.jpeg)
 ![Matches Played vs won vs lost](images/matches_played_won_lost.jpeg)
-![Highest average first innings score](images/highest_average_first_innings_score.jpeg)
-![Distribution of first innings score](images/distribution_of_first_innings_score.jpeg)
+![Highest average first innings score by venue](images/highest_average_first_innings_score_by_venue.jpeg)
+![Distribution of first innings score](images/distribution_of_first_ing_score.jpeg)
 
 ---
 
