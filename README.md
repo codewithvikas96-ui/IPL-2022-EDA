@@ -19,7 +19,7 @@ Built as a **Data Science Capstone Project** to demonstrate real-world data anal
 - 🏟️ **Eden Gardens, Kolkata** produced the highest average first innings scores
 - 🎳 **Fielding first** was the preferred toss decision — teams trusted chasing over defending
 - 💥 **Highest individual score** of the season came from Quinton de Kock (**140**)
-- 📈 **First innings teams that won** scored on average **~20 more runs** than those who lost
+- 📈 **First innings teams that won** scored on average **~30 more runs** than those who lost
 
 ---
 
